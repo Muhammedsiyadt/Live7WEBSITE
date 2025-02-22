@@ -2444,7 +2444,8 @@ Tools sidebar
 }
 
 .header-top-social ul li.list-inline-item:not(:last-child) {
-  margin-right: 15px;
+  border-right: 1px solid #ffffff33;
+  padding-right: 15px;
 }
 
 .gi-help {
