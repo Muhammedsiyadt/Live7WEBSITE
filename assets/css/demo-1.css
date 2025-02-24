@@ -2443,9 +2443,8 @@ Tools sidebar
 
 }
 
-.header-top-social ul li.list-inline-item:not(:last-child) {
-  border-right: 1px solid #ffffff33;
-  padding-right: 15px;
+#fi-rr-menu-burger{
+  font-size: 26px;
 }
 
 .gi-help {
@@ -2834,7 +2833,7 @@ Tools sidebar
 }
 
 .gi-header-buttons .gi-header-btn:hover {
-  color: #106d60;
+  color: #ffbb00;
 }
 
 .gi-header-buttons .gi-header-btn:hover .gi-header-count {
@@ -2846,7 +2845,7 @@ Tools sidebar
 }
 
 .gi-header-buttons .gi-header-btn:hover .header_svg {
-  fill: #106d60;
+  fill: #042c27;
 }
 
 .gi-header-buttons .gi-header-btn i {
@@ -6125,6 +6124,10 @@ i.gicon.gi-star.fill {
   border-radius: 5px;
 }
 
+.gi-slide-content{
+  margin-bottom: 288px;
+}
+
 .gi-hero .gi-main-content .gi-slider-content .gi-main-slider .gi-slider .gi-slide-content {
   max-width: 40rem;
   margin-left: 100px;
@@ -6143,7 +6146,7 @@ i.gicon.gi-star.fill {
 }
 
 .gi-hero .gi-main-content .gi-slider-content .gi-main-slider .gi-slider .gi-slide-content .gi-slide-title {
-  margin-bottom: 288px;
+  
   font-size: 48px;
   line-height: 68px;
   color: #ffffff;
@@ -6192,7 +6195,7 @@ i.gicon.gi-star.fill {
 }
 
 .gi-hero .gi-main-content .gi-slider-content .gi-main-slider .slide-1 {
-  background-image: url(../images/new/bnr-5.jpg);
+  background-image: url(../images/new/banner-nikhilesh-1.jpg);
   background-position: center;
 }
 
@@ -6202,7 +6205,7 @@ i.gicon.gi-star.fill {
 }
 
 .gi-hero .gi-main-content .gi-slider-content .gi-main-slider .slide-3 {
-  background-image: url(../images/new/bnr7.jpg);
+  background-image: url(../images/new/banner-nikhilesh-2.jpg);
   background-position: center;
 }
 
@@ -6871,7 +6874,7 @@ i.gicon.gi-star.fill {
 
 @media (max-width: 991px) {
   .gi-header-buttons .gi-header-btn i {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .gi-ser-inner {
@@ -6986,7 +6989,7 @@ i.gicon.gi-star.fill {
   }
 
   .gi-hero .gi-main-content .gi-slider-content .gi-main-slider .gi-slider .gi-slide-content .gi-slide-title {
-    margin-bottom: 114px;
+    margin-bottom: -255px;
     font-size: 22px;
     line-height: 32px;
   }
