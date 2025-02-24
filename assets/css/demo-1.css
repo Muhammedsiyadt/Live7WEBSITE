@@ -8035,6 +8035,18 @@ i.gicon.gi-star.fill {
   color: #106d60;
 }
 
+#career-form-radio {
+  display: flex;
+  gap: 15px; 
+  align-items: center;
+  padding: 5px;
+  padding-left: 20px;
+}
+
+#radio-label {
+  margin-bottom: 0px; /* Optional: Adds a small space between the radio button and the label */
+}
+
 .career-header p {
   font-size: 1.1rem;
   color: #6c757d;
@@ -8043,10 +8055,6 @@ i.gicon.gi-star.fill {
 
 .career-form-group {
   margin-bottom: 20px;
-}
-
-.career-form-group label {
-  font-weight: 600;
 }
 
 .career-form-control {
@@ -8257,6 +8265,8 @@ i.gicon.gi-star.fill {
   width: 48%; /* Each form input takes up 48% of the available space */
 }
 
+
+
 /* Responsive Styles */
 @media (max-width: 768px) {
   .cntct-section {
@@ -8284,6 +8294,9 @@ i.gicon.gi-star.fill {
       margin-bottom: 15px;
   }
 }
+
+
+
 
 /* Addresses  */
 
