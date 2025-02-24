@@ -6192,7 +6192,7 @@ i.gicon.gi-star.fill {
 }
 
 .gi-hero .gi-main-content .gi-slider-content .gi-main-slider .slide-1 {
-  background-image: url(../images/new/new-bn.png);
+  background-image: url(../images/new/bnr-2.jpg);
   background-position: center;
 }
 
@@ -6202,7 +6202,11 @@ i.gicon.gi-star.fill {
 }
 
 .gi-hero .gi-main-content .gi-slider-content .gi-main-slider .slide-3 {
-  background-image: url(../img/hero-bg/6.jpg);
+  background-image: url(../images/new/bnr-1.jpg);
+  background-position: center;
+}
+.gi-hero .gi-main-content .gi-slider-content .gi-main-slider .slide-4 {
+  background-image: url(../images/new/bnr-3.jpg);
   background-position: center;
 }
 
